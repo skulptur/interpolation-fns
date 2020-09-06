@@ -32,6 +32,7 @@
   "name": "interpolation-fns",
   "author": "Gustavo Spredemann",
   "module": "dist/interpolation-fns.esm.js",
+  "repository": "https://github.com/skulptur/interpolation-fns",
   "keywords": [
     "functional",
     "math",
