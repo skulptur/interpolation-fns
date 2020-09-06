@@ -1,5 +1,3 @@
-Numerical interpolation functions in Typescript.
-
 ## Get started
 
 Install
