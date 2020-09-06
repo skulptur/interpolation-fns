@@ -1,4 +1,4 @@
-export const catmullRomInterpolation = (
+export const catmullRom = (
   a: number,
   b: number,
   c: number,
