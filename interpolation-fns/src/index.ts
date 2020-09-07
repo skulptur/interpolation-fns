@@ -1,6 +1,0 @@
-export { catmullRom } from './lib/catmullRom'
-export { cosine } from './lib/cosine'
-export { cubic } from './lib/cubic'
-export { hermite } from './lib/hermite'
-export { linear } from './lib/linear'
-export { nearest } from './lib/nearest'
